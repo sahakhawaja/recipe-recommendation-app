@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recipe Recommendation App
 
 ## Structure
@@ -40,3 +41,10 @@ Deploy this repo as **two separate Vercel projects** (import the same GitHub rep
 - Uses `client/vercel.json` (already included)
 
 MongoDB must be hosted on **MongoDB Atlas** (cloud) — a local `mongodb://127.0.0.1` URI will not work once deployed.
+=======
+# Vue 3 + Vite
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+>>>>>>> 4cdb14dabdce2a66394254440e8fbd3c9a78fa1d
